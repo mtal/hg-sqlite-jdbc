@@ -1,3 +1,6 @@
+**NOTICE: sqlite-jdbc has moved to GitHub: [https://github.com/xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc)
+**
+
 SQLite JDBC Driver
 ==================
 SQLite JDBC, developed by [Taro L. Saito](http://www.xerial.org/leo), is a library for accessing and creating [SQLite](http://sqlite.org) database files in Java.
